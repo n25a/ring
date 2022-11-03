@@ -13,6 +13,10 @@ This script install anything that you want in your Debian Distribute linux OS.
 - terminator
 - vscode
 - IDE
+   - DataGrip
+   - PhpStorm
+   - Goland
+   - Pycharm
 - docker
 - docker-compose
 - snap
