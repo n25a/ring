@@ -35,7 +35,7 @@ You can see name of app functions in the script.
 
 
 ## Notes
-For better experience, there is some packages.
+For better experience, there is suggested theme and plugins.
 
 
 ### [powerlevel10k](https://github.com/romkatv/powerlevel10k)
