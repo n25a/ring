@@ -10,11 +10,12 @@ This script install anything that you want in your linux OS.
 - [X] oh-my-zsh
 - [X] terminator
 - [X] vscode
-- [ ] IDE
-- [ ] docker
-- [ ] docker-compose
-- [ ] postman
-- [ ] telegram
-- [ ] vlc
-- [ ] firefox
-- [ ] brave
+- [X] IDE
+- [X] docker
+- [X] docker-compose
+- [X] snap
+- [X] postman
+- [X] telegram
+- [X] vlc
+- [X] brave
+- [X] spotify
