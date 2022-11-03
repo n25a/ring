@@ -57,3 +57,9 @@ For autosuggestions in your zsh, you can install zsh-autosuggestions.
 For syntax highlighting in your zsh, you can install zsh-syntax-highlighting.
 
 ![Demo](https://raw.githubusercontent.com/zsh-users/zsh-syntax-highlighting/master/images/after2-smaller.png)
+
+
+### [Other Plugins](https://github.com/unixorn/awesome-zsh-plugins)
+
+There is some plugins that you can install.
+
