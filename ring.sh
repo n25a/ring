@@ -102,3 +102,16 @@ function get_IDE() {
     get_IDE_goland
     get_IDE_pycharm
 }
+
+install_oh_my_zsh
+install_terminator
+install_vscode
+install_docker
+install_docker_compose
+install_snap
+install_postman
+install_telegram
+install_vlc
+install_spotify
+install_brave
+get_IDE
