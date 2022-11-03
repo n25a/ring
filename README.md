@@ -30,13 +30,18 @@ This script install anything that you want in your Debian Distribute linux OS.
 ## Installation
 
 For every app you want to install, you have to run the script with the name of the app as argument.
+You can see name of app functions in the script.
 
 ```bash
 sudo sh ring.sh install_oh_my_zsh
 ```
 
-You can see name of app functions in the script.
 
+If you want to install all apps, you can run the script without arguments.
+
+```bash
+sudo sh ring.sh
+```
 
 ## Notes
 For better experience, there is suggested theme and plugins.
